@@ -45,6 +45,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Order of pages in the main navigation
 header_pages:
