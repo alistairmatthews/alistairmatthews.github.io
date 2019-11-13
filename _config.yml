@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   martial art that we can practise to improve our fitness, balance, confidence, and mental 
   health.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://aikidocornwall.com" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: konpontekina
 # twitter_username: 
 # github_username:  
@@ -44,6 +44,7 @@ social:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Order of pages in the main navigation
 header_pages:
