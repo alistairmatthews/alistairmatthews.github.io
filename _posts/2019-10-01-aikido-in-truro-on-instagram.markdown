@@ -5,7 +5,7 @@ date:   2019-10-01 21:36:44 +0100
 categories: social instagram videos
 ---
 
-We've been using Instagram for a few months to post short videos that demonstrate what we've been studying. And they been followed and liked quite a bit by other Aikidokas of Insta. We'd also like them to help promote what we do to potential students so if you have a Cornish community of seekers after fitness and spiritual progress, please link to it. <a href="https://www.instagram.com/konpontekina/" target="ext">This is our feed</a>
+We've been using Instagram for a few months to post short videos that demonstrate what we've been studying. And they been followed and liked quite a bit by other Aikidokas of Insta. We'd also like them to help promote what we do to potential students so if you have a Cornish community of seekers after fitness and spiritual progress, please link to it. <a href="https://www.instagram.com/konpontekina/" target="ext">This is our feed</a>.
 
 Here's a recent post:
 

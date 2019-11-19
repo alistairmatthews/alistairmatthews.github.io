@@ -2,9 +2,7 @@
 layout: post
 title:  "Uchi deshi at Yama no Dojo"
 date:   2019-11-18 21:36:44 +0100
-categories:
-- wanomichi
-- uchi deshi
+categories: [wanomichi, uchi deshi]
 ---
 
 In October, I was privileged to attend another uchi deshi at Toutain Sensei's dojo in Serralongue, France. It's a spectacular location up in the mountains and close to the Spanish border and we were there for five days' training in Wanomichi. Our daily schedule was something like this:

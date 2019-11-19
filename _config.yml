@@ -53,6 +53,7 @@ header_pages:
   - about.markdown
   - practise.markdown
   - see.markdown
+  - blog.markdown
 
 
 # Exclude from processing.

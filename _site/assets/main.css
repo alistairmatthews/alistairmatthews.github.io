@@ -90,7 +90,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .site-nav .menu-icon { display: none; }
 
-.site-nav .page-link { color: #111; line-height: 1.5; background-color: #fdfdfd; border-radius: 3px; padding: 6px 15px; }
+.site-nav .page-link { color: #111; line-height: 1.5; background-color: #fdfdfd; border-radius: 3px; padding: 6px 7px; }
 
 .site-nav .page-link:not(:last-child) { margin-right: 20px; }
 
