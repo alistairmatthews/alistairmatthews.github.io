@@ -4,9 +4,13 @@ title: Practise with Us
 permalink: /practise/
 ---
 
-![Aikiken Practice](../assets/kenpractice.jpg)
+![Aikiken Practice](./assets/kenpractice.jpg)
 
-We practise at <a href="http://pvmh.btck.co.uk/" target="ext">Perranwell Community Centre</a> on Sunday evenings from 5pm until 7pm. We are open to all participants who are aged 18 and over. You can come along and try our art with us any time.
+# Temporary Club Closure
+
+**Because of you-know-what, we've had to halt practice for the time being. But we'll be back as soon as we can! See you then.**
+
+Ordinarily, we practise at <a href="http://pvmh.btck.co.uk/" target="ext">Perranwell Community Centre</a> on Sunday evenings from 5pm until 7pm. We are open to all participants who are aged 18 and over. You can come along and try our art with us any time.
 
 Sessions cost £5 but the first session is free. Bring a gi, if you happen to have one, but otherwise any sportswear that permits free movement is fine. Those who have practised other martial arts will find many similarities and many differences. As long as you are prepared to perform the techniques as shown and help your partners, you should find our techniques interesting, challenging, and practical.
 
