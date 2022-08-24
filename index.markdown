@@ -1,15 +1,17 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: A Martial Art for All
 layout: home
 ---
 
 ![Club Members](./assets/clubmembers.jpg)
 
-# Temporary Club Closure
+# The club is re-launching!
 
-**Because of you-know-what, we've had to halt practice for the time being. But we'll be back as soon as we can! See you then.**
+**Now that the pandemic's over, we're restarting at a new time in a new venue: <a href="http://maraziontowncouncil.gov.uk/our-community/community-hall/" target="ext">Marazion Community Hall</a> on the 23rd of September. We'll be practising there every Friday night. See you there!**
 
-We practise <a href="http://www.wanomichi.net/" target="ext">Wanomichi</a>, a variant of Traditional Aikido, in Perranwell, near Truro, Cornwall. The club is a member of the <a href="http://aikidoresearchfederation.co.uk/" target="ext">Aikido Research Federation</a> and the instructor is qualified with the <a href="https://www.bab.org.uk/cms/" target="ext">British Aikido Board</a>. He holds third dan certificates in Wanomichi, given by Sensei Daniel Toutain, a direct student of Morihiro Saito Sensei.
+We practise Traditional Aikido in Marazion, near Penzance, Cornwall. The club is a member of <a href="http://aikidoalive.co.uk/" target="ext">Aikido Alive</a> and the instructor is qualified with the <a href="https://www.bab.org.uk/cms/" target="ext">British Aikido Board</a>. He holds third dan certificates in <a href="http://www.wanomichi.net/" target="ext">Wanomichi</a>, given by Sensei Daniel Toutain, a direct student of Morihiro Saito Sensei.
 
 Aikido is a Japanese martial art that teaches how to harmonise yourself with an attacker’s movement and intention. This art promotes awareness, agility, balance, confidence, and a peaceful mind. It improves physical and mental health. There is no competition in Aikido - instead, we help each other to improve. There is no need for physical strength in this art - instead we work to increase our skill. Aikido practitioners relax, both in the dojo and in everyday life.
 

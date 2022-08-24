@@ -29,5 +29,3 @@ Daniel Toutain has initiated <a href="http://www.wanomichi.net/" target="ext">Wa
 Wanomichi consists of the full syllabus of Tai Jutsu and Buki Waza with Kaizen Dosa. Kaizen Dosa, which means "continuous improvement", consists of Ashtanga Yoga, meditation, and other preparatory exercises. The yoga and meditation is taught by Sonya Tomioka Toutain, to help the student understand and strengthen the body and mind. 
 
 Wanomichi is a detailed and precise form of Traditional Aikido, and has many students in Europe, Africa, and elsewhere. In our dojo, this is the form of Aikido we pursue.
-
-![Wanomichi](http://www.wanomichi.net/sites/default/files/logo_wanomichi.png)
