@@ -13,10 +13,10 @@ layout: home
 
 We practise Traditional Aikido in Marazion, near Penzance, Cornwall. The club is a member of <a href="http://aikidoalive.co.uk/" target="ext">Aikido Alive</a> and the instructor is qualified with the <a href="https://www.bab.org.uk/cms/" target="ext">British Aikido Board</a>. He holds third dan certificates in <a href="http://www.wanomichi.net/" target="ext">Wanomichi</a>, given by Sensei Daniel Toutain, a direct student of Morihiro Saito Sensei.
 
-Aikido is a Japanese martial art that teaches how to harmonise yourself with an attacker’s movement and intention. This art promotes awareness, agility, balance, confidence, and a peaceful mind. It improves physical and mental health. There is no competition in Aikido - instead, we help each other to improve. There is no need for physical strength in this art - instead we work to increase our skill. Aikido practitioners relax, both in the dojo and in everyday life.
+Aikido is a Japanese martial art that teaches how to harmonise yourself with an attacker's movement and intention. This art promotes awareness, agility, balance, confidence, and a peaceful mind. It improves physical and mental health. There is no competition in Aikido - instead, we help each other to improve. There is no need for physical strength in this art - instead we work to increase our skill. Aikido practitioners relax, both in the dojo and in everyday life.
 
-“Aikido has nothing to do with brute strength, weapons, or war.
-It is the Art of Peace.”
+"Aikido has nothing to do with brute strength, weapons, or war.
+It is the Art of Peace."
 
 Morihei Ueshiba,
 Founder of Aikido.
