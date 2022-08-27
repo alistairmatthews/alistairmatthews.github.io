@@ -22,12 +22,16 @@ Saito Sensei is considered to be one of the closest students of the Founder and 
 
 # Daniel Toutain Sensei and Sonya Tomioka Toutain Sensei
 
-Daniel Toutain Sensei began training in Aikido in 1968 in France, under <a href="https://en.wikipedia.org/wiki/Masamichi_Noro" target="ext">Masamichi Noro Sensei</a>, with whom he studied for ten years. He also spent ten years as a senior student of <a href="https://en.wikipedia.org/wiki/Nobuyoshi_Tamura" target="ext">Nobuyoshi Tamura Sensei</a>. In 1992, Toutain Sensei met and began training with Morihiro Saito Sensei and trained with him until his death in 2002. During this time, Toutain Sensei visited Iwama as uchi deshi many times and also brought Saito Sensei to Europe for seminars. Toutain Sensei was awarded the rank of 6th dan by Saito Sensei in 2002.
+Daniel Toutain Sensei began training in Aikido in 1968 in France, under <a href="https://en.wikipedia.org/wiki/Masamichi_Noro" target="ext">Masamichi Noro Sensei</a>, with whom he studied for ten years. He also spent ten years as a senior student of <a href="https://en.wikipedia.org/wiki/Nobuyoshi_Tamura" target="ext">Nobuyoshi Tamura Sensei</a>. In 1992, Toutain Sensei met and began training with Morihiro Saito Sensei and trained with him until his death in 2002. During this time, Toutain Sensei visited Iwama as uchi deshi many times and also brought Saito Sensei to Europe for seminars. Toutain Sensei was awarded the rank of 6<sup>th</sup> dan by Saito Sensei in 2002.
 
 Daniel Toutain has initiated <a href="http://www.wanomichi.net/" target="ext">Wanomichi</a> after fifty years of Aikido practice. He wanted to bring a new approach to the training received at Iwama, with the goal of improving the understanding and application of the fundamental principles of the art. Wanomichi perpetuates the techniques of Traditional Aikido, which came from O Sensei, and adds other practices that share common points, in order to deepen the students' comprehension. 
 
 Wanomichi consists of the full syllabus of Tai Jutsu and Buki Waza with Kaizen Dosa. Kaizen Dosa, which means "continuous improvement", consists of Ashtanga Yoga, meditation, and other preparatory exercises. The yoga and meditation is taught by Sonya Tomioka Toutain, to help the student understand and strengthen the body and mind. 
 
-Wanomichi is a detailed and precise form of Traditional Aikido, and has many students in Europe, Africa, and elsewhere. In our dojo, this is the form of Aikido we pursue.
+Wanomichi is a detailed and precise form of Traditional Aikido, and has many students in Europe, Africa, and elsewhere.
 
-> TODO: Something about Aikido Alive here. Maybe ask Bjorn?
+# Bjorn S&#0228;w Sensei and Aikido Alive
+
+Aikido Alive Cornwall is a member of [Aikido Alive UK](http://aikidoalive.co.uk), headed by [Bjorn S&#0228;w Sensei](http://aikidoalive.co.uk/bjorn-saw). Bjorn started Aikido in 1974 in Sweden under Takeji Tomita Shihan, 7<sup>th</sup> dan. He studied in Iwama with Saito Shihan as uchi deshi and soto deshi from 1987 to 1993 and was graded Nidan by Saito Shihan. Since Saito's death in 2002, Bjorn has been graded by Ulf Evan&#0229;s Shihan and reached 5<sup>th</sup> dan in 2014. 
+
+S&#0228;w Sensei emphasizes Aikido as a spiritual path and a method by which we can learn more about ourselves as well as a physical training method and system of self-defence. Since 2017 Bjorn has studied with Dan Harding Sensei to develop an internally connected body.

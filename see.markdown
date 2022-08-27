@@ -18,8 +18,6 @@ Saito Sensei, including much of our advanced weapons syllabus:
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/D3kndm38hNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-> TODO: Some Bjorn action here.
-
 From the basics to mastery in five minutes with Toutain Sensei:
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/zHnmENo_S-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
