@@ -4,7 +4,7 @@ title: Practise with Us
 permalink: /practise/
 ---
 
-![Aikiken Practice](/assets/kenpractice.jpg)
+![A picture of practice with Aikiken.](/assets/kenpractice.jpg)
 
 We practise at <a href="http://maraziontowncouncil.gov.uk/our-community/community-hall/" target="ext">Marazion Community Hall</a> on  Friday evenings from 7pm until 9pm. We are open to all participants who are aged 18 and over. You can come along and try our art with us any time.
 

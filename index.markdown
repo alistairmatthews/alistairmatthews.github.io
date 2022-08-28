@@ -5,7 +5,7 @@ title: A Martial Art for All
 layout: home
 ---
 
-![Club Members](./assets/clubmembers.jpg)
+![A picture of club members.](./assets/clubmembers.jpg)
 
 # The club is re-launching!
 
