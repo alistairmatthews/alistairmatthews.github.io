@@ -32,4 +32,4 @@ Wanomichi is a detailed and precise form of Traditional Aikido, and has many stu
 
 Aikido Alive Cornwall is a member of [Aikido Alive UK](http://aikidoalive.co.uk), headed by [Bjorn S&#0228;w Sensei](http://aikidoalive.co.uk/bjorn-saw). Bjorn started Aikido in 1974 in Sweden under Takeji Tomita Shihan, 7<sup>th</sup> dan. He studied in Iwama with Saito Shihan as uchi deshi and soto deshi from 1987 to 1993 and was graded Nidan by Saito Shihan. Since Saito's death in 2002, Bjorn has been graded by Ulf Evan&#0229;s Shihan and reached 5<sup>th</sup> dan in 2014. 
 
-S&#0228;w Sensei emphasizes Aikido as a spiritual path and a method by which we can learn more about ourselves as well as a physical training method and system of self-defence. Since 2017 Bjorn has studied with Dan Harding Sensei to develop an internally connected body.
+S&#0228;w Sensei emphasizes Aikido as a spiritual path and a method by which we can learn more about ourselves as well as a physical training method and system of self-defence. Since 2017 Bjorn has studied with Dan Harden Sensei to develop an internally connected body.
