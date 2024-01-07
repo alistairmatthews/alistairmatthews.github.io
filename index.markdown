@@ -7,7 +7,7 @@ layout: home
 
 # Practising in 2024
 
-**If you want a new challenge for this New Year, you'd be very welcome to join our club and learn this fascinating and rejuvenating art. To see what it's like, take a look at [a typical session](https://player.vimeo.com/video/859473234?h=c67904da52). We've already restarted at <a href="http://maraziontowncouncil.gov.uk/our-community/community-hall/" target="ext">Marazion Community Hall</a> on Friday evenings. See the [Practise with Us](practise.markdown) page for more details.
+**If you want a new challenge for this New Year, you'd be very welcome to join our club and learn this fascinating and rejuvenating art. To see what it's like, take a look at [a typical session](https://player.vimeo.com/video/859473234?h=c67904da52). We've already restarted at <a href="http://maraziontowncouncil.gov.uk/our-community/community-hall/" target="ext">Marazion Community Hall</a> on Friday evenings. See the [Practise with Us](practise.markdown) page for more details.**
 
 We practise Traditional Aikido in Marazion, near Penzance, Cornwall. The club is a member of <a href="http://aikidoalive.co.uk/" target="ext">Aikido Alive</a> and the instructor is qualified with the <a href="https://www.bab.org.uk/cms/" target="ext">British Aikido Board</a>. He holds third dan certificates in <a href="http://www.wanomichi.net/" target="ext">Wanomichi</a>, given by Sensei Daniel Toutain, a direct student of Morihiro Saito Sensei.
 
