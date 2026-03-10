@@ -33,3 +33,26 @@ Wanomichi is a detailed and precise form of Traditional Aikido, and has many stu
 Aikido Alive Cornwall is a member of [Aikido Alive UK](http://aikidoalive.co.uk), headed by [Bjorn S&#0228;w Sensei](http://aikidoalive.co.uk/bjorn-saw). Bjorn started Aikido in 1974 in Sweden under Takeji Tomita Shihan, 7<sup>th</sup> dan. He studied in Iwama with Saito Shihan as uchi deshi and soto deshi from 1987 to 1993 and was graded Nidan by Saito Shihan. Since Saito's death in 2002, Bjorn has been graded by Ulf Evan&#0229;s Shihan and reached 5<sup>th</sup> dan in 2014. 
 
 S&#0228;w Sensei emphasizes Aikido as a spiritual path and a method by which we can learn more about ourselves as well as a physical training method and system of self-defence. Since 2017 Bjorn has studied with Dan Harden Sensei to develop an internally connected body.
+
+## AIKIDO ALIVE U.K. DOJOKAI
+## 武産合氣修練道場会
+
+**[Aikido Alive Wells 本部道場](www.aikidoalive.co.uk)**
+Wells, Somerset
+Bjorn Saw 5th Dan
+
+**[Aikido Alive North London / Hampstead Dojo 古道場](www.hampsteadaikido.com)**
+Albi Solicari 5th Dan
+Thomas Ferrari 4th Dan
+
+**[Aikido Alive South London / Byakudo Aikido 古道場](www.byakudoaikido.weebly.com)**
+Gábor Zsolt Szabo 3rd Dan
+
+**[Aikido Alive Manchester / Aikibudo Society 合氣武道 at the University of Manchester & the Iwama Aikido club at the Manchester Metropolitan University](www.aikidoalivemanchester.weebly.com)**
+Ulysses Sengupta 2nd Dan
+
+**[Aikido Alive Cornwall / Konpon Tekina Aiki Shuren Kai 根本的な合氣修練会](www.aikidocornwall.com)**
+Marazion, Cornwall
+Jamie Matthews 3rd Dan
+
+A I K I □○▵ L I V E
