@@ -18,3 +18,5 @@ It is the Art of Peace."
 
 Morihei Ueshiba,
 Founder of Aikido.
+
+[![Aikido Alive UK.](./assets/AikidoAliveUKLogo.jpg)](http://aikidoalive.co.uk/)
